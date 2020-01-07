@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350de4c3-870e-43f9-ad30-5e060a284ac8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboot_jdbc/bean/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springboot_jdbc/bean/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot_jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_jdbc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springboot_jdbc/config/DruidConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springboot_jdbc/config/DruidConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springboot_jdbc.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +35,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="muShangG" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="springboot_jdbc" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -164,12 +156,24 @@
       <option name="presentableId" value="Default" />
       <updated>1578379506718</updated>
       <workItem from="1578379512977" duration="9776000" />
-      <workItem from="1578396692556" duration="5430000" />
+      <workItem from="1578396692556" duration="5932000" />
     </task>
+    <task id="LOCAL-00001" summary="qqq">
+      <created>1578405148698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578405148698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qqq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qqq" />
   </component>
   <component name="WindowStateProjectService">
     <state x="335" y="139" key="#Inspections" timestamp="1578388412400">
@@ -185,11 +189,19 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="201" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405031173" />
+    <state x="452" y="28" key="CommitChangelistDialog2" timestamp="1578405147090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="28" key="CommitChangelistDialog2/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405147090" />
     <state x="1156" y="189" key="FileChooserDialogImpl" timestamp="1578402948233">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1099" y="178" key="FileChooserDialogImpl/0.0.1825.987@0.0.1825.987" timestamp="1578389794827" />
     <state x="1156" y="189" key="FileChooserDialogImpl/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578402948233" />
+    <state x="708" y="384" key="Github.CreatePullRequestDialog" timestamp="1578405217607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="708" y="384" key="Github.CreatePullRequestDialog/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405217607" />
     <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1578404810311">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
