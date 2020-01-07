@@ -156,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578379506718</updated>
       <workItem from="1578379512977" duration="9776000" />
-      <workItem from="1578396692556" duration="5932000" />
+      <workItem from="1578396692556" duration="6237000" />
     </task>
     <task id="LOCAL-00001" summary="qqq">
       <created>1578405148698</created>
@@ -165,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578405148698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="qqq">
+      <created>1578405643904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578405643904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qqq">
+      <created>1578405751936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578405751936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,10 +203,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="765" y="201" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405031173" />
-    <state x="452" y="28" key="CommitChangelistDialog2" timestamp="1578405643141">
+    <state x="452" y="28" key="CommitChangelistDialog2" timestamp="1578405751122">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="452" y="28" key="CommitChangelistDialog2/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405643141" />
+    <state x="452" y="28" key="CommitChangelistDialog2/1920.0.1280.700/0.0.1920.1050@0.0.1920.1050" timestamp="1578405751122" />
     <state x="1156" y="189" key="FileChooserDialogImpl" timestamp="1578402948233">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
